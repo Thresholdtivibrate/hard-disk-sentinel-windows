@@ -2,7 +2,7 @@
 
 Hard Disk Sentinel on Windows 10/11 x64. 30 MB. Requirements, screenshots, MoggyDay Launcher.
 
-Site: [EN](https://moggydayprogram.com/en/programs/hard-disk-sentinel) · [RU](https://moggydayprogram.com/programs/hard-disk-sentinel) · [Pages](https://pebblechiefsever.github.io/hard-disk-sentinel-windows/)
+Site: [EN](https://moggydayprogram.com/en/programs/hard-disk-sentinel) · [RU](https://moggydayprogram.com/programs/hard-disk-sentinel) · [Pages](https://thresholdtivibrate.github.io/hard-disk-sentinel-windows/)
 
 <p>
   <a href="https://moggydayprogram.com/programs/hard-disk-sentinel"><img src="docs/media/preview.jpg" alt="Hard Disk Sentinel" width="640"></a>
@@ -30,4 +30,4 @@ Also:
 - [CrystalDiskInfo](https://moggydayprogram.com/programs/crystaldiskinfo)
 - [Macrium Reflect](https://moggydayprogram.com/programs/macrium-reflect)
 
-Pages: https://pebblechiefsever.github.io/hard-disk-sentinel-windows/
+Pages: https://thresholdtivibrate.github.io/hard-disk-sentinel-windows/
